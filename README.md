@@ -2,6 +2,9 @@
 
 This InDesign script allows the user to set all stories in a given document to use the selected composer. This can be quite useful for translating and typesetting documents using complex non-Latin scripts (Indic/Devengari, etc.)
 
+![Image demonstrating errors in displaying Bengali text without using the Adobe World Ready composer.](/Composer_Error_Example.png)
+
+
 # Installation
 To install this script, download the [SetStoryComposer.jsx](/SetStoryComposer.jsx) file and place it in your Scripts Panel directory. 
 
